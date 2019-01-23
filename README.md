@@ -52,9 +52,7 @@ We use [Postman](https://www.getpostman.com/) for this purpose.
 onlineconvertor link: https://www.base64-image.de/
 
 
- ![Alt text](/custom_code/Screenshot from 2018-12-26 22-35-51.png)
+<img src="custom_code/Screenshot from 2018-12-26 22-35-51.png" height="400" alt="Screenshot"/> 
+   
 
 
-
-
- 
