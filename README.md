@@ -47,7 +47,14 @@ We use [Postman](https://www.getpostman.com/) for this purpose.
        In body:
        Type of data: form-data
        key: plant_image
-       value:(input image which is converted into base64 using onlineconvertor https://www.base64-image.de/))
+       value:(input image which is converted into base64 using onlineconvertor)
 
- 
+onlineconvertor link: https://www.base64-image.de/
+
+
+ ![Alt text](/custom_code/Screenshot from 2018-12-26 22-35-51.png)
+
+
+
+
  
